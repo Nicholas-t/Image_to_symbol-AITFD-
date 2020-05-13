@@ -7,7 +7,7 @@ import os
 
 N = 500
 size_image = width_image, height_image = N, N
-font_path = './Roboto-Light.ttf'
+font_path = './src/Roboto-Light.ttf'
 font = ImageFont.truetype(font_path, size=N)
 
 SPECIAL = {
