@@ -1,5 +1,5 @@
 # Image_to_symbol-AITFD-
-picture to image 
+Image to symbol converter
 
 To run, you need to first generate the image of the characters by running :
 
